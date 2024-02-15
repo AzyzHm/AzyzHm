@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azyzhm&label=Profile%20views&color=0e75b6&style=flat" alt="azyzhm" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning  : **C++**
 
-- 💬 Ask me about **Python and Js**
+- 💬 Ask me about  :  **Python and Js**
 
-- 📫 How to reach me **elhammemi001@gmail.com**
+- 📫 How to reach me  :  **elhammemi001@gmail.com**
 
-- ⚡ Fun fact **Eating makes You Bigger**
+- ⚡ Fun fact  :   **Eating makes You Bigger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-aziz-hammemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-aziz-hammemi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-aziz-hammemi-696b78263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-aziz-hammemi" height="30" width="40" /></a>
 <a href="https://fb.com/hammemiazyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammemiazyz" height="30" width="40" /></a>
 <a href="https://instagram.com/hammemiazyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammemiazyz" height="30" width="40" /></a>
 </p>
