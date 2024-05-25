@@ -1,8 +1,7 @@
 ![github](assets/github.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azyzhm&label=Profile%20views&color=0e75b6&style=flat" alt="azyzhm" /> </p>
 
 # 💫 About Me:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azyzhm&label=Profile%20views&color=0e75b6&style=flat" alt="azyzhm" /> </p>
 
 🌱 I’m currently learning : C++<br><br>💬 Ask me about : Python and Js<br><br>📫 How to reach me : elhammemi001@gmail.com<br><br>⚡ Fun fact : Eating makes You Bigger
 
