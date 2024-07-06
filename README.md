@@ -1,7 +1,7 @@
 ![github](assets/github.gif)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azyzhm&label=Profile%20views&color=0e75b6&style=flat" alt="azyzhm" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=cyan&center=true&width=435&lines=Hi+%2C+I'm+Azyz;a+Data+Analyst+%26+AI+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+%2C+I'm+Azyz;Data+Analyst+%26+AI+enthusiast)](https://git.io/typing-svg)
 
 # <h1 align="center">💫 About Me:</h1>
 
