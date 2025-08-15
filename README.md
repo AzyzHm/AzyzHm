@@ -1,7 +1,7 @@
 <img src="assets/profile_header_2.gif" alt="github"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+%2C+I'm+Azyz;Data+Scientist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&color=800080&lines=Hi+%2C+I'm+Azyz;Data+Scientist;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 
