@@ -26,12 +26,16 @@
 
 ## <span style="color: #800080;">Github Stats</span>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzyzHm&theme=midnight-purple&hide_border=true" alt="AzyzHm's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-wine-92.vercel.app/api?username=AzyzHm&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple" />
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzyzHm&theme=midnight-purple&hide_border=true" alt="AzyzHm's Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-wine-92.vercel.app/api?username=AzyzHm&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr>
