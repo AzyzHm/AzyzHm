@@ -6,7 +6,7 @@
 ## <span style="color: #800080;">About Me</span>
 
 <p style="font-size:18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0;">
-    <strong style="color: #2A9D8F;">👋 Hello there!</strong> I'm <strong style="color: #E76F51;">Azyz</strong>, a passionate Data scientist and AI enthusiast dedicated to exploring the vast world of data and artificial intelligence. With a keen interest in <strong style="color: #F4A261;">Machine Learning</strong> 🤖, <strong style="color: #2A9D8F;">Competitive Programming</strong> 💻, and <strong style="color: #E9C46A;">Blockchain</strong> 🔗, I'm constantly on a journey of learning and discovery, aiming to harness the power of data and AI to unlock new insights and innovations.
+    <strong style="color: #2A9D8F;">👋 Hello there!</strong> I'm <strong style="color: #E76F51;">Azyz</strong>, a passionate Data scientist and AI enthusiast dedicated to exploring the vast world of data and artificial intelligence. With a keen interest in <strong style="color: #F4A261;">Machine Learning</strong> 🤖, <strong style="color: #2A9D8F;">Competitive Programming</strong> 💻, and <strong style="color: #E9C46A;">Blockchain</strong> 🔗, I'm constantly on a journey of learning and discovery, aiming to harness the power of data and AI .
 </p>
 
 ## <span style="color: #800080;">My Interests</span>
