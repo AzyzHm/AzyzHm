@@ -1,47 +1,89 @@
 <img src="assets/profile_header_2.gif" alt="github"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&height=100&color=800080&lines=Hi%2C+I'm+Azyz.;Data+Scientist.;I+Build+Things+That+Work.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&color=800080&lines=Hi+%2C+I'm+Azyz;Data+Scientist;)](https://git.io/typing-svg)
+---
 
-## <span style="color: #800080;">About Me</span>
+## 👨‍💻 About Me
 
-<p style="font-size:18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0;">
-    <strong style="color: #2A9D8F;">👋 Hello there!</strong> I'm <strong style="color: #E76F51;">Azyz</strong>, a passionate Data scientist and AI enthusiast dedicated to exploring the vast world of data and artificial intelligence. With a keen interest in <strong style="color: #F4A261;">Machine Learning</strong> 🤖, <strong style="color: #2A9D8F;">Competitive Programming</strong> 💻, and <strong style="color: #E9C46A;">Blockchain</strong> 🔗, I'm constantly on a journey of learning and discovery, aiming to harness the power of data and AI .
+```python
+class Azyz:
+    def __init__(self):
+        # Core identity
+        self.role = "Data Scientist"
+        self.skills = [
+            "Machine Learning",
+            "Problem Solving",
+            "Data-Driven Systems"
+        ]
+        self.interests = [
+            "Competitive Programming",
+            "Blockchain",
+            "Applied AI"
+        ]
+        # Goals
+        self.goals = [
+            "Build practical ML models that work in production",
+            "Solve complex problems efficiently",
+            "Collaborate with high-performing teams"
+        ]
+        # Contact info
+        self.contact = {
+            "LinkedIn": "https://www.linkedin.com/in/mohammed-aziz-hammemi-696b78263/",
+            "Email": "MohammedAzizHammemi@gmail.com"
+        }
+
+    def work(self):
+        print("Turning data into decisions and shipping results.")
+
+    def show_skills(self):
+        for skill in self.skills:
+            print(f"- {skill}")
+
+    def show_interests(self):
+        for interest in self.interests:
+            print(f"- {interest}")
+
+    def show_goals(self):
+        for goal in self.goals:
+            print(f"- {goal}")
+
+    def contact_me(self):
+        for method, info in self.contact.items():
+            print(f"{method}: {info}")
+
+if __name__ == "__main__":
+    me = Azyz()
+    print("=== Skills ===")
+    me.show_skills()
+    print("=== Interests ===")
+    me.show_interests()
+    print("=== Goals ===")
+    me.show_goals()
+    print("=== Contact ===")
+    me.contact_me()
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/AzyzHm">
+    <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=AzyzHm&show_icons=true&theme=midnight-purple" />
+  </a>
 </p>
 
-## <span style="color: #800080;">My Interests</span>
-- **Machine Learning**: Building predictive models and exploring neural networks.
-- **Competitive Programming**: Solving complex problems and participating in coding contests.
-- **Blockchain**: Understanding decentralized technologies and their applications.
-
-## <span style="color: #800080;">My Goals</span>
-- **Continuous Learning**: Always staying updated with the latest trends in AI and data science.
-- **Innovation**: Applying data-driven solutions to real-world problems.
-- **Collaboration**: Working with like-minded individuals and contributing to open-source projects.
-
-## <span style="color: #800080;">Get in Touch</span>
-- **LinkedIn**: [Mohammed Aziz HAMMEMI](https://www.linkedin.com/in/mohammed-aziz-hammemi-696b78263/)
-- **Email**: [MohammedAzizHammemi@gmail.com](mailto:MohammedAzizHammemi@gmail.com)
-
-
-## <span style="color: #800080;">Github Stats</span>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzyzHm&theme=midnight-purple&hide_border=true" alt="AzyzHm's Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-wine-92.vercel.app/api?username=AzyzHm&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
+<p align="center">
+  <a href="https://github.com/AzyzHm">
+    <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AzyzHm&theme=midnight-purple" />
+  </a>
+</p>
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=azyzhm&label=Profile%20views&color=800080&style=flat" alt="azyzhm" />
-    <img src="https://img.shields.io/github/followers/azyzhm?label=Followers&style=social&color=800080" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=azyzhm&label=Profile%20views&color=800080&style=flat" />
+  <img src="https://img.shields.io/github/followers/azyzhm?label=Followers&style=social" />
 </p>
+
+
