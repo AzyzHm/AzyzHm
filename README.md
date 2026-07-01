@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile_header_2.gif" alt="GitHub Header" width="750" />
+  <img src="assets/profile-header.gif" alt="GitHub Header" width="750" />
 </p>
 
 <p align="center">
@@ -19,44 +19,75 @@
 
 ---
 
-### 🎯 About Me
-
-I am a **Software Engineering Student** with a strong passion for **Data Science**, focused on architecting data-driven systems and deploying practical machine learning models. I thrive on solving complex, real-world engineering problems efficiently.
-
-* 🧠 **Core Expertise:** Software Development, Machine Learning & Applied AI Systems
-* ⚡ **Interests:** Competitive Programming, AI Engineering, and Data Science.
-* 🚀 **Current Goal:** Collaborating with high-performing teams to build and ship scalable software and ML solutions
+<h3 align="left">
+  <img src="assets/about-me.gif" width="35" align="center" />
+  &nbsp;About Me
+</h3>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <img src="assets/who-am-i.png" alt="Who am i" width="1200" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="left">
+  <img src="assets/tech-stack.gif" width="35" align="center" />
+  &nbsp;Tech Stack
+</h3>
+
+---
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,cpp" alt="Languages" />
+</p>
+
+<h4 align="center">Frameworks & Web</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,fastapi" alt="Frameworks" />
+</p>
+
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite" alt="Databases" />
+</p>
+
+<h4 align="center">Tools & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,git" alt="Tools & Cloud" />
+</p>
+
+<h4 align="center">Data & Analytics</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="55" alt="NumPy" title="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" height="55" alt="Seaborn" title="Seaborn" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="55" alt="Jupyter" title="Jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="55" alt="Matplotlib" title="Matplotlib" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="55" alt="scikit-learn" title="scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" height="55" alt="Tableau" title="Tableau" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg" height="55" alt="Excel" title="Excel" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="55" alt="Streamlit" title="Streamlit" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" height="55" alt="Power BI" title="Power BI" />
+</p>
+
+---
+
+<h3 align="left">
+  <img src="assets/github-analytics.gif" width="35" align="center" />
+  &nbsp;GitHub Analytics
+</h3>
+
+---
 
 <p align="center">
   <a href="https://github.com/AzyzHm">
