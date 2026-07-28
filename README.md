@@ -8,6 +8,8 @@
   <img alt="Mohammed Aziz Hammemi" src="https://raw.githubusercontent.com/AzyzHm/AzyzHm/main/light.svg">
 </picture>
 
+<br>
+
 <div align="center">
 
 <p align="center">
@@ -18,9 +20,6 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AzyzHm&theme=midnight-purple" height="150" alt="GitHub Streak" />
   </a>
 </p>
-
-
-
 </div>
 
 <div align="center">
